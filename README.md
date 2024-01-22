@@ -1,1 +1,2 @@
-# HLGG-2.0
+# Игровой ивент GGG (Genre Game Gauntlet, Triple G)
+
