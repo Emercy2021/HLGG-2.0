@@ -248,14 +248,10 @@ function WheelSketch(_p5) {
 
             key = data_key(data.length, i);
 
-            if (data[key].color) {
-                _p5.fill(data[key].color)
-            }
-
             if (y < _p5.textAscent() / 2
                 && y > -_p5.textAscent()
             ) {
-                if (!isCounterAnimation && !data[key].color) {
+                if (!isCounterAnimation) {
                     _p5.fill(212, 160, 0);
                 }
 
