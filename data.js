@@ -28,17 +28,12 @@ const dataSets = {
         'bar',
     ],
     coin: [
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
-        {title: 'Орёл',  image: '/coins/russia-100-rubles-1993-ob.png'},
-        {title: 'Решка', image: '/coins/russia-100-rubles-1993-rev.png'},
-        {title: 'Ребро', image: '/coins/coin-gurt.png'},
+        {title: '1',  image: '/coins/001.png'},
+        {title: '2', image: '/coins/002.png'},
+        {title: '3',  image: '/coins/003.png'},
+        {title: '4', image: '/coins/004.png'},
+        {title: '5',  image: '/coins/005.png'},
+        {title: '6', image: '/coins/006.png'},
     ],
 };
 
