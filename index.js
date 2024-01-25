@@ -115,7 +115,7 @@ const p5Wheel = new p5(WheelSketch);
 const DMCAPlaylistSwitcher = new CheckboxStateable('with-dmca', 'video-with-dmca-protection', CheckboxStateable.MODE_MERGE);
 
 DMCAPlaylistSwitcher
-    .setValues(videosProtected, videosFree)
+    .setValues(videosFree)
     .onSwitch((value) => {
         p5Wheel.setVideo(new Video(value, ''));
     })
