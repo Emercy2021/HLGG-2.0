@@ -248,6 +248,325 @@
       "limit":null,
       "color":"#93979f",
       "quantity":1
+   },
+   {
+      "image":"/items/026.png",
+      "title":"LEGO ZA DUPLO",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/027.png",
+      "title":"Блять, я второй",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/028.png",
+      "title":"Главное, не ешь жёлтый снег",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/029.png",
+      "title":"R.G. Механики",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/030.png",
+      "title":"Good Game",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/031.png",
+      "title":"Что такое Денди ?",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/032.png",
+      "title":"Что такое Sega ?",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/033.png",
+      "title":"Что такое PlayStation ?",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/034.png",
+      "title":"Мультики",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/035.png",
+      "title":"Бродилки",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/036.png",
+      "title":"Каловздутие",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/037.png",
+      "title":"Корзина AlexDrop",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/038.png",
+      "title":"Стальные трусы",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/039.png",
+      "title":"Воровской карман",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/040.png",
+      "title":'Кубик "Гойда"',
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/041.png",
+      "title":"Капкан",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/042.png",
+      "title":"Веревка из убежища 15",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/043.png",
+      "title":"Домашнее задание",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/044.png",
+      "title":"Шпаргалка",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/045.png",
+      "title":"Заминированный тапок",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/046.png",
+      "title":"Потёртый диск",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/047.png",
+      "title":"Секундомер",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/048.png",
+      "title":"Нейрализатор",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/049.png",
+      "title":'Метка "Антидроп"',
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/050.png",
+      "title":"Платиновая монета",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/051.png",
+      "title":"Кора Мудрого дерева",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/052.png",
+      "title":'Метка "Hardкорщик"',
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/053.png",
+      "title":"Ведро Цоя",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/054.png",
+      "title":"ESTA VIVO?!?!",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/055.png",
+      "title":"Счастливый билет",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/056.png",
+      "title":"Ходули",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
+   },
+   {
+      "image":"/items/057.png",
+      "title":"Палка",
+      "type":"Предмет",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":1
    }
-   
 ]
