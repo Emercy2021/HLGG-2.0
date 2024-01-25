@@ -18,5 +18,10 @@
  */
 const videosFree = [
     ['videos/[Re-upload] [1080p] HONK HONK.mp4', 0, 25],
-    ['videos/[SFM] Shrekophone.mp4', 0, 32]
+    ['videos/[SFM] Shrekophone.mp4', 0, 32],
+    ['videos/01.mp4', 0, 30],
+    ['videos/02.mp4', 0, 28],
+    ['videos/03.mp4', 0, 27],
+    ['videos/04.mp4', 0, 28],
+    ['videos/06.mp4', 0, 27]
 ];
