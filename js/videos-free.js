@@ -17,6 +17,6 @@
  * ]),
  */
 const videosFree = [
-    ['videos/[Re-upload] [1080p] HONK HONK.mp4.mp4', 0, 25]
+    ['videos/[Re-upload] [1080p] HONK HONK.mp4', 0, 25]
 
 ];
