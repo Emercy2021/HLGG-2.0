@@ -42,8 +42,6 @@ const videosFree = [
     ['videos/gena bukin.mp4', 0, 27],
     ['videos/greg.mp4', 0, 27],
     ['videos/HOOD NARUTO  pt.4 (full video) naruto vs pain.mp4', 0, 23],
-    ['videos/I'm a Bee.mp4', 0, 28],
-    ['videos/JOJO'S BIZARRE MAKEUP TUTORIAL.mp4', 0, 16],
     ['videos/khajit.mp4', 0, 15],
     ['videos/lotar.mp4', 0, 36],
     ['videos/love Blade Runner 2049 edit.mp4', 0, 30],
