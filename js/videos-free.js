@@ -33,6 +33,7 @@ const videosFree = [
     ['videos/18.mp4', 0, 25],
     ['videos/19.mp4.mp4', 0, 32],
     ['videos/All Star but they don't stop coming pitch corrected.mp4', 0, 30],
+    ['videos/Antonio Banderas, Los Lobos • Desperado.mp4', 0, 30],
     ['videos/arabic.mp4', 0, 27],
     ['videos/best Chika meme ever   anime characters in Chika dance MV.mp4', 0, 28],
     ['videos/BOOMBASTIC.mp4', 0, 27],
@@ -75,5 +76,5 @@ const videosFree = [
     ['videos/Сыновья России. Кто пчелок уважает.mp4', 0, 29],
     ['videos/Танец под волчок из  Что Где Когда.mp4', 0, 29],
     ['videos/Тони не спал с тобой. Тонилайф.mp4', 0, 29],
-    ['videos/учит крутить рулём под phonk.mp4', 0, 29],
+    ['videos/учит крутить рулём под phonk.mp4', 0, 29]
 ];
