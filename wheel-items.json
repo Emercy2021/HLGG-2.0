@@ -8,5 +8,246 @@
       "limit":null,
       "color":"#93979f",
       "quantity":3
-   }
+   },
+   {
+      "image":"/items/002.png",
+      "title":"Слыш, купи!",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/003.png",
+      "title":"Чат выбирает игру",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/004.png",
+      "title":"Вин Дизель",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Вин  Дроссель",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"О господи, 12 из 10",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Тупое говно, тупого говна",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Кальяный стрим",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Там ревели Гоги",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Отключение интернета",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Вкуснятина",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Black Friday",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Деменция",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Выбор Зумера",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Выбор Бумера",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Хуевый Трейд",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Благотворительность",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Приляг, поспи",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"На попей, 3 глоточка",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Джокерге",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Уолтер, убери свой..",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Классика жанра",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Я здесь закон",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Боярин меня...",
+      "type":"Активное событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   {
+      "image":"/items/001.png",
+      "title":"Фанат Сталкера",
+      "type":"Одноразовое событие",
+      "description":"Описание",
+      "charge":null,
+      "limit":null,
+      "color":"#93979f",
+      "quantity":3
+   },
+   
 ]
