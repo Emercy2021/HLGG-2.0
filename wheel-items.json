@@ -391,7 +391,7 @@
    },
    {
       "image":"/items/040.png",
-      "title":'Кубик "Гойда"',
+      "title":"Кубик "Гойда"",
       "type":"Предмет",
       "description":"Описание",
       "charge":null,
@@ -481,7 +481,7 @@
    },
    {
       "image":"/items/049.png",
-      "title":'Метка "Антидроп"',
+      "title":"Метка "Антидроп"",
       "type":"Предмет",
       "description":"Описание",
       "charge":null,
@@ -511,7 +511,7 @@
    },
    {
       "image":"/items/052.png",
-      "title":'Метка "Hardкорщик"',
+      "title":"Метка "Hardкорщик"",
       "type":"Предмет",
       "description":"Описание",
       "charge":null,
