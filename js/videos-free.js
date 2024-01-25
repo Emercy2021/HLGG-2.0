@@ -17,6 +17,7 @@
  * ]),
  */
 const videosFree = [
+    () => p5Wheel.random([
     ['videos/[Re-upload] [1080p] HONK HONK.mp4', 0, 25],
     ['videos/[SFM] Shrekophone.mp4', 0, 32],
     ['videos/01.mp4', 0, 30],
@@ -70,5 +71,6 @@ const videosFree = [
     ['videos/Тони не спал с тобой. Тонилайф.mp4', 0, 29],
     ['videos/учит крутить рулём под phonk.mp4', 0, 29],
     ['videos/Этот мем поймут только 25-летние.mp4', 0, 29]
+    ]
 
 ];
