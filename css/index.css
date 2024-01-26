@@ -1,12 +1,12 @@
 @import url(range.css);
 
 @font-face {
-	font-family: "Painty Paintr";
-	src: url('../fonts/Painty Paint.ttf');
+	font-family: "PaintyPaint";
+	src: url('../fonts/PaintyPaint.ttf');
 }
 @font-face {
 	font-family: "Oswald-Light";
-	src: url('../fonts/Painty Paint.ttf');
+	src: url('../fonts/PaintyPaint.ttf');
 }
 #canvas2 {
 	position: absolute;
