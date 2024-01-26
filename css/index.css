@@ -23,7 +23,7 @@ html, body {
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	font-family: "Roboto", Calibri, sans-serif;
+	font-family: "Roboto-Regular", Calibri, sans-serif;
 	color: #eee;
 	/*background-image: linear-gradient(to top, #141E30 0%, #243B55 100%);*/
 }
