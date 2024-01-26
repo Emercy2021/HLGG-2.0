@@ -114,12 +114,12 @@ const p5Wheel = new p5(WheelSketch);
 DMCAPlaylistSwitcher
     .setValues(videosProtected, videosFree)
     .onSwitch((value) => {
-        p5Wheel.setVideo(new Video(value, 'whopg2-wheel/'));
+        p5Wheel.setVideo(new Video(value, ''));
     })
 ;
 
 p5Wheel.onAfterSetup = function () {
-    p5Wheel.setVideo(new Video(DMCAPlaylistSwitcher.value, 'whopg2-wheel/'));
+    p5Wheel.setVideo(new Video(DMCAPlaylistSwitcher.value, ''));
 };
 
 const image = document.querySelector('#item-image img');
