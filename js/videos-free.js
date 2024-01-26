@@ -28,7 +28,10 @@ const videosFree = [
         ['videos/9MM x LOLI SHIGURE UI.mp4', 0, 27],
         ['videos/17.mp4', 0, 27],
         ['videos/18.mp4', 0, 25],
-        ['videos/19.mp4', 0, 32],   
+        ['videos/19.mp4', 0, 32],
+        ['videos/All Star but they don't stop coming pitch corrected.mp4', 0, 29],
+        ['videos/Antonio Banderas, Los Lobos • Desperado.mp4', 0, 29],
+        ['videos/arabic.mp4', 0, 41]
     ])
     
 ];
