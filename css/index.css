@@ -1,12 +1,12 @@
 @import url(range.css);
 
 @font-face {
-	font-family: "Roboto";
-	src: url('../fonts/Roboto_light.ttf');
+	font-family: "Roboto-Regular";
+	src: url('../fonts/Roboto-Regular.ttf');
 }
 @font-face {
 	font-family: "Oswald-Light";
-	src: url('../fonts/Roboto_light.ttf');
+	src: url('../fonts/Roboto-Light.ttf');
 }
 #canvas2 {
 	position: absolute;
