@@ -1,12 +1,12 @@
 @import url(range.css);
 
 @font-face {
-	font-family: "Oswald-Regular";
-	src: url('../fonts/Oswald-Regular.ttf');
+	font-family: "Painty Paintr";
+	src: url('../fonts/Painty Paint.ttf');
 }
 @font-face {
 	font-family: "Oswald-Light";
-	src: url('../fonts/Oswald-Light.ttf');
+	src: url('../fonts/Painty Paint.ttf');
 }
 #canvas2 {
 	position: absolute;
@@ -23,7 +23,7 @@ html, body {
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	font-family: "Oswald-Light", Calibri, sans-serif;
+	font-family: "Painty Paint", Calibri, sans-serif;
 	color: #eee;
 	/*background-image: linear-gradient(to top, #141E30 0%, #243B55 100%);*/
 }
