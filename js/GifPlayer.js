@@ -3,12 +3,11 @@ function GifPlayer(p) {
         width = 112,
         height = 112,
         gifList = [
-            {name: 'ppOverheat', min: 15, max: 200},
-            {name: '3x', min: 35, max: 200},
-            {name: '3x_1', min: 50, max: 200},
-            {name: '3x_2', min: 15, max: 200},
-            {name: '3x_3', min: 15, max: 200},
-            {name: 'Scan', min: 8, max: 40},
+            {name: 'Akvitan', min: 15, max: 200},
+            {name: 'Alexbelog', min: 35, max: 200},
+            {name: 'Ragnar', min: 50, max: 200},
+            {name: 'REVENGELUV', min: 15, max: 200},
+            {name: 'Wolfiin', min: 8, max: 40},
         ]
     ;
     let image,
@@ -51,7 +50,7 @@ function GifPlayer(p) {
 
     p.preload = () => {
         array_shuffle(gifList);
-        imageLoading = p.loadImage('images/frames/' + gifList[0].name + '.gif');
+        imageLoading = p.loadImage('images/streamers/' + gifList[0].name + '.gif');
         p.randomizeImage();
     };
     p.setup = () => {
