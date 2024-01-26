@@ -1,12 +1,12 @@
 @import url(range.css);
 
 @font-face {
-	font-family: "PaintyPaint";
-	src: url('../fonts/PaintyPaint.ttf');
+	font-family: "Roboto";
+	src: url('../fonts/Roboto_light.ttf');
 }
 @font-face {
 	font-family: "Oswald-Light";
-	src: url('../fonts/PaintyPaint.ttf');
+	src: url('../fonts/Roboto_light.ttf');
 }
 #canvas2 {
 	position: absolute;
@@ -23,7 +23,7 @@ html, body {
 	align-content: center;
 	align-items: center;
 	justify-content: center;
-	font-family: "PaintyPaint", Calibri, sans-serif;
+	font-family: "Roboto", Calibri, sans-serif;
 	color: #eee;
 	/*background-image: linear-gradient(to top, #141E30 0%, #243B55 100%);*/
 }
