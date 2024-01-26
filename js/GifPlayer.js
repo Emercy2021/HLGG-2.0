@@ -50,7 +50,7 @@ function GifPlayer(p) {
 
     p.preload = () => {
         array_shuffle(gifList);
-        imageLoading = p.loadImage('images/streamers/' + gifList[0].name + '.gif');
+        imageLoading = p.loadImage('images/streamers/' + gifList[0].name + '.png');
         p.randomizeImage();
     };
     p.setup = () => {
