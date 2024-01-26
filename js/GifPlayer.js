@@ -133,7 +133,7 @@ function GifPlayer(p) {
         image = imageLoading;
         image.delay(delay);
 
-        p.loadImage('images/frames/' + gifList[imageIndex].name + '.gif', img => {
+        p.loadImage('images/streamers/' + gifList[imageIndex].name + '.gif', img => {
             imageLoading = img;
         });
 
