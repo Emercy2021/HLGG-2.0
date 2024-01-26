@@ -111,6 +111,16 @@ editConfirmButton.addEventListener('click', function () {
 });
 
 const p5Wheel = new p5(WheelSketch);
+DMCAPlaylistSwitcher
+    .setValues(videosProtected, videosFree)
+    .onSwitch((value) => {
+        p5Wheel.setVideo(new Video(value, 'whopg2-wheel/'));
+    })
+;
+
+p5Wheel.onAfterSetup = function () {
+    p5Wheel.setVideo(new Video(DMCAPlaylistSwitcher.value, 'whopg2-wheel/'));
+};
 
 const image = document.querySelector('#item-image img');
 let currentUrl = window.location.href;
