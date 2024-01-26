@@ -386,8 +386,8 @@ button:disabled {
 #video-suggest,
 #btn-edit {
 	display: inline-block;
-	width: 24px;
-	height: 24px;
+	width: 26px;
+	height: 26px;
 	background-size: 100%;
 	background-color: transparent;
 }
