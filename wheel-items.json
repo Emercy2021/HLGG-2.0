@@ -31,7 +31,7 @@
    },
    {
       "image":"/items/004.png",
-      "title":"TEST",
+      "title":"Вин Дизель",
       "type":"Активное событие",
       "description":"В течении 15 минут играть в игру под трек https://www.youtube.com/watch?v=7M1NGW0wJaA, после успешного прослушивания, стример получает + 1 к кубику.",
       "charge":null,
