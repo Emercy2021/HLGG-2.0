@@ -500,3 +500,8 @@ div > #copy-last-selected:active {
 #streamers0 + label {
 	display: none;
 }
+
+#with-dmca{
+	display:none;
+}
+}
