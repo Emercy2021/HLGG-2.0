@@ -501,7 +501,7 @@ div > #copy-last-selected:active {
 	display: none;
 }
 
-#with-dmca, #with-dmca>label{
+#with-dmca, #with-dmca + label{
 	display:none;
 }
 
